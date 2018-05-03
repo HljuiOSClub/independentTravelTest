@@ -1,20 +1,42 @@
 PODS:
   - Alamofire (4.7.1)
+  - BMPlayer (1.0.1):
+    - BMPlayer/Full (= 1.0.1)
+  - BMPlayer/Core (1.0.1)
+  - BMPlayer/Full (1.0.1):
+    - BMPlayer/Core
+    - NVActivityIndicatorView (~> 4.0.0)
+    - SnapKit (~> 4.0.0)
+  - NVActivityIndicatorView (4.0.1):
+    - NVActivityIndicatorView/Presenter (= 4.0.1)
+  - NVActivityIndicatorView/Presenter (4.0.1)
+  - Segmentio (3.0)
+  - SnapKit (4.0.0)
   - SwiftyJSON (4.0.0)
 
 DEPENDENCIES:
   - Alamofire
+  - BMPlayer
+  - Segmentio
   - SwiftyJSON
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
     - Alamofire
+    - BMPlayer
+    - NVActivityIndicatorView
+    - Segmentio
+    - SnapKit
     - SwiftyJSON
 
 SPEC CHECKSUMS:
   Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  BMPlayer: 44eebf06eb01450dd14ea74b27d07c5222f0eed1
+  NVActivityIndicatorView: 77ed6d7b571643e24899e7858bf9ae2ee4c21f31
+  Segmentio: 1607fba3b42230f5f91e997d1a3f337f1176674c
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
   SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
 
-PODFILE CHECKSUM: 04bd61c37a460df0c7660dbfb236ecf3f38f2f5e
+PODFILE CHECKSUM: 31d7683cb54976ee9f15986158f36f3e406b1fb5
 
 COCOAPODS: 1.5.0

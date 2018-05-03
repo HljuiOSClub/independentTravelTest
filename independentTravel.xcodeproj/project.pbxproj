@@ -13,8 +13,37 @@
 		302F41F9208A1BC5007BC8C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302F41F8208A1BC5007BC8C1 /* Assets.xcassets */; };
 		302F41FC208A1BC5007BC8C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 302F41FA208A1BC5007BC8C1 /* LaunchScreen.storyboard */; };
 		3037A1602090A45900D9C7AE /* PersonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3037A15F2090A45900D9C7AE /* PersonViewController.swift */; };
+		307C56C82093B39D0042DAC3 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 307C56C72093B39D0042DAC3 /* 10.jpg */; };
+		307C56CC2093B6D40042DAC3 /* myViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307C56CB2093B6D40042DAC3 /* myViewController1.swift */; };
+		307C56CF2093BAE10042DAC3 /* TeleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307C56CD2093BAE10042DAC3 /* TeleCell.swift */; };
+		307C56D02093BAE10042DAC3 /* TeleCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 307C56CE2093BAE10042DAC3 /* TeleCell.xib */; };
+		307C56D420945E7A0042DAC3 /* FlyViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307C56D120945E7A0042DAC3 /* FlyViewCell.swift */; };
+		307C56D520945E7A0042DAC3 /* FlyViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 307C56D220945E7A0042DAC3 /* FlyViewCell.xib */; };
+		307C56D620945E7A0042DAC3 /* LoopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307C56D320945E7A0042DAC3 /* LoopView.swift */; };
+		307C56DA20945F130042DAC3 /* WEIPageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307C56D920945F130042DAC3 /* WEIPageControl.swift */; };
+		307C56DF2094621D0042DAC3 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 307C56DB2094621C0042DAC3 /* 4.jpg */; };
+		307C56E02094621D0042DAC3 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 307C56DC2094621C0042DAC3 /* 3.jpg */; };
+		307C56E12094621D0042DAC3 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 307C56DD2094621C0042DAC3 /* 1.jpg */; };
+		307C56E22094621D0042DAC3 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 307C56DE2094621D0042DAC3 /* 2.jpg */; };
+		307C56E6209470DE0042DAC3 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307C56E5209470DE0042DAC3 /* WebViewController.swift */; };
+		308BE2E92093853C00D897BD /* TitleZoomVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308BE2E82093853B00D897BD /* TitleZoomVC.swift */; };
+		308BE2EE2093858100D897BD /* ZCYPageContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308BE2EB2093858100D897BD /* ZCYPageContentView.swift */; };
+		308BE2EF2093858100D897BD /* ZCYPageTitleConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308BE2EC2093858100D897BD /* ZCYPageTitleConfig.swift */; };
+		308BE2F02093858100D897BD /* ZCYPageTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308BE2ED2093858100D897BD /* ZCYPageTitleView.swift */; };
+		308BE36B2093885D00D897BD /* myViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308BE36A2093885D00D897BD /* myViewController2.swift */; };
+		308BE36D209388A100D897BD /* myViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308BE36C209388A100D897BD /* myViewController3.swift */; };
+		308BE36F209388AE00D897BD /* myViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308BE36E209388AE00D897BD /* myViewController4.swift */; };
+		308BE371209388BD00D897BD /* myViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308BE370209388BD00D897BD /* myViewController5.swift */; };
+		30C383E220947B4000EA00EC /* updateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C383E120947B4000EA00EC /* updateViewController.swift */; };
 		30C7A2B420920E4400DE800C /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C7A2B220920E4400DE800C /* PersonCell.swift */; };
 		30C7A2B520920E4400DE800C /* PersonCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 30C7A2B320920E4400DE800C /* PersonCell.xib */; };
+		30EA3B7B209998A2006EAB9F /* TableViewCell3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30EA3B79209998A2006EAB9F /* TableViewCell3.swift */; };
+		30EA3B7C209998A2006EAB9F /* TableViewCell3.xib in Resources */ = {isa = PBXBuildFile; fileRef = 30EA3B7A209998A2006EAB9F /* TableViewCell3.xib */; };
+		30EA3B802099A3DB006EAB9F /* XiaoXiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30EA3B7F2099A3DB006EAB9F /* XiaoXiViewController.swift */; };
+		30EA3B872099AD65006EAB9F /* XiaoXi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30EA3B852099AD65006EAB9F /* XiaoXi.swift */; };
+		30EA3B882099AD65006EAB9F /* XiaoXi.xib in Resources */ = {isa = PBXBuildFile; fileRef = 30EA3B862099AD65006EAB9F /* XiaoXi.xib */; };
+		30FBA1282094B22A00E7FEFE /* TableViewCell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30FBA1262094B22A00E7FEFE /* TableViewCell2.swift */; };
+		30FBA1292094B22A00E7FEFE /* TableViewCell2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 30FBA1272094B22A00E7FEFE /* TableViewCell2.xib */; };
 		AE691FB60014932F7DFC253A /* Pods_independentTravel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66F0F312B87629158F19B45B /* Pods_independentTravel.framework */; };
 /* End PBXBuildFile section */
 
@@ -27,8 +56,37 @@
 		302F41FB208A1BC5007BC8C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		302F41FD208A1BC5007BC8C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3037A15F2090A45900D9C7AE /* PersonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonViewController.swift; sourceTree = "<group>"; };
+		307C56C72093B39D0042DAC3 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		307C56CB2093B6D40042DAC3 /* myViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myViewController1.swift; sourceTree = "<group>"; };
+		307C56CD2093BAE10042DAC3 /* TeleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeleCell.swift; sourceTree = "<group>"; };
+		307C56CE2093BAE10042DAC3 /* TeleCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TeleCell.xib; sourceTree = "<group>"; };
+		307C56D120945E7A0042DAC3 /* FlyViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlyViewCell.swift; sourceTree = "<group>"; };
+		307C56D220945E7A0042DAC3 /* FlyViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FlyViewCell.xib; sourceTree = "<group>"; };
+		307C56D320945E7A0042DAC3 /* LoopView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoopView.swift; sourceTree = "<group>"; };
+		307C56D920945F130042DAC3 /* WEIPageControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WEIPageControl.swift; sourceTree = "<group>"; };
+		307C56DB2094621C0042DAC3 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		307C56DC2094621C0042DAC3 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		307C56DD2094621C0042DAC3 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		307C56DE2094621D0042DAC3 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		307C56E5209470DE0042DAC3 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		308BE2E82093853B00D897BD /* TitleZoomVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TitleZoomVC.swift; sourceTree = "<group>"; };
+		308BE2EB2093858100D897BD /* ZCYPageContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZCYPageContentView.swift; sourceTree = "<group>"; };
+		308BE2EC2093858100D897BD /* ZCYPageTitleConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZCYPageTitleConfig.swift; sourceTree = "<group>"; };
+		308BE2ED2093858100D897BD /* ZCYPageTitleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZCYPageTitleView.swift; sourceTree = "<group>"; };
+		308BE36A2093885D00D897BD /* myViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myViewController2.swift; sourceTree = "<group>"; };
+		308BE36C209388A100D897BD /* myViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myViewController3.swift; sourceTree = "<group>"; };
+		308BE36E209388AE00D897BD /* myViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myViewController4.swift; sourceTree = "<group>"; };
+		308BE370209388BD00D897BD /* myViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myViewController5.swift; sourceTree = "<group>"; };
+		30C383E120947B4000EA00EC /* updateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = updateViewController.swift; sourceTree = "<group>"; };
 		30C7A2B220920E4400DE800C /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
 		30C7A2B320920E4400DE800C /* PersonCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PersonCell.xib; sourceTree = "<group>"; };
+		30EA3B79209998A2006EAB9F /* TableViewCell3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell3.swift; sourceTree = "<group>"; };
+		30EA3B7A209998A2006EAB9F /* TableViewCell3.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell3.xib; sourceTree = "<group>"; };
+		30EA3B7F2099A3DB006EAB9F /* XiaoXiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XiaoXiViewController.swift; sourceTree = "<group>"; };
+		30EA3B852099AD65006EAB9F /* XiaoXi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XiaoXi.swift; sourceTree = "<group>"; };
+		30EA3B862099AD65006EAB9F /* XiaoXi.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = XiaoXi.xib; sourceTree = "<group>"; };
+		30FBA1262094B22A00E7FEFE /* TableViewCell2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell2.swift; sourceTree = "<group>"; };
+		30FBA1272094B22A00E7FEFE /* TableViewCell2.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell2.xib; sourceTree = "<group>"; };
 		3F38788EB6695C434C1DB1E4 /* Pods-independentTravel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-independentTravel.release.xcconfig"; path = "Pods/Target Support Files/Pods-independentTravel/Pods-independentTravel.release.xcconfig"; sourceTree = "<group>"; };
 		66F0F312B87629158F19B45B /* Pods_independentTravel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_independentTravel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E69CDA14DECF4F746F0C438 /* Pods-independentTravel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-independentTravel.debug.xcconfig"; path = "Pods/Target Support Files/Pods-independentTravel/Pods-independentTravel.debug.xcconfig"; sourceTree = "<group>"; };
@@ -67,9 +125,14 @@
 		302F41F0208A1BC4007BC8C1 /* independentTravel */ = {
 			isa = PBXGroup;
 			children = (
+				307C56D820945E900042DAC3 /* LoopViewController */,
+				308BE367209387CD00D897BD /* UIViewController */,
+				308BE2EA2093858100D897BD /* ZCYPageView */,
 				3037A1612090A46300D9C7AE /* Controller */,
 				302F41F1208A1BC4007BC8C1 /* AppDelegate.swift */,
+				308BE2E82093853B00D897BD /* TitleZoomVC.swift */,
 				302F41F5208A1BC4007BC8C1 /* Main.storyboard */,
+				307C56C72093B39D0042DAC3 /* 10.jpg */,
 				302F41F8208A1BC5007BC8C1 /* Assets.xcassets */,
 				302F41FA208A1BC5007BC8C1 /* LaunchScreen.storyboard */,
 				302F41FD208A1BC5007BC8C1 /* Info.plist */,
@@ -84,8 +147,56 @@
 				302F41F3208A1BC4007BC8C1 /* ViewController.swift */,
 				30C7A2B220920E4400DE800C /* PersonCell.swift */,
 				30C7A2B320920E4400DE800C /* PersonCell.xib */,
+				307C56CD2093BAE10042DAC3 /* TeleCell.swift */,
+				307C56CE2093BAE10042DAC3 /* TeleCell.xib */,
+				30C383E120947B4000EA00EC /* updateViewController.swift */,
 			);
 			path = Controller;
+			sourceTree = "<group>";
+		};
+		307C56D820945E900042DAC3 /* LoopViewController */ = {
+			isa = PBXGroup;
+			children = (
+				307C56D920945F130042DAC3 /* WEIPageControl.swift */,
+				307C56D120945E7A0042DAC3 /* FlyViewCell.swift */,
+				307C56D220945E7A0042DAC3 /* FlyViewCell.xib */,
+				307C56D320945E7A0042DAC3 /* LoopView.swift */,
+				307C56DD2094621C0042DAC3 /* 1.jpg */,
+				307C56DE2094621D0042DAC3 /* 2.jpg */,
+				307C56DC2094621C0042DAC3 /* 3.jpg */,
+				307C56DB2094621C0042DAC3 /* 4.jpg */,
+			);
+			path = LoopViewController;
+			sourceTree = "<group>";
+		};
+		308BE2EA2093858100D897BD /* ZCYPageView */ = {
+			isa = PBXGroup;
+			children = (
+				308BE2EB2093858100D897BD /* ZCYPageContentView.swift */,
+				308BE2EC2093858100D897BD /* ZCYPageTitleConfig.swift */,
+				308BE2ED2093858100D897BD /* ZCYPageTitleView.swift */,
+			);
+			path = ZCYPageView;
+			sourceTree = "<group>";
+		};
+		308BE367209387CD00D897BD /* UIViewController */ = {
+			isa = PBXGroup;
+			children = (
+				30EA3B7F2099A3DB006EAB9F /* XiaoXiViewController.swift */,
+				308BE36A2093885D00D897BD /* myViewController2.swift */,
+				308BE36C209388A100D897BD /* myViewController3.swift */,
+				308BE36E209388AE00D897BD /* myViewController4.swift */,
+				308BE370209388BD00D897BD /* myViewController5.swift */,
+				307C56CB2093B6D40042DAC3 /* myViewController1.swift */,
+				307C56E5209470DE0042DAC3 /* WebViewController.swift */,
+				30FBA1262094B22A00E7FEFE /* TableViewCell2.swift */,
+				30EA3B79209998A2006EAB9F /* TableViewCell3.swift */,
+				30EA3B852099AD65006EAB9F /* XiaoXi.swift */,
+				30EA3B862099AD65006EAB9F /* XiaoXi.xib */,
+				30EA3B7A209998A2006EAB9F /* TableViewCell3.xib */,
+				30FBA1272094B22A00E7FEFE /* TableViewCell2.xib */,
+			);
+			path = UIViewController;
 			sourceTree = "<group>";
 		};
 		75BFCA3B329F922C88666831 /* Pods */ = {
@@ -165,10 +276,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				307C56E22094621D0042DAC3 /* 2.jpg in Resources */,
+				307C56E02094621D0042DAC3 /* 3.jpg in Resources */,
+				307C56DF2094621D0042DAC3 /* 4.jpg in Resources */,
 				302F41FC208A1BC5007BC8C1 /* LaunchScreen.storyboard in Resources */,
+				30FBA1292094B22A00E7FEFE /* TableViewCell2.xib in Resources */,
+				307C56D02093BAE10042DAC3 /* TeleCell.xib in Resources */,
 				302F41F9208A1BC5007BC8C1 /* Assets.xcassets in Resources */,
+				307C56D520945E7A0042DAC3 /* FlyViewCell.xib in Resources */,
+				30EA3B7C209998A2006EAB9F /* TableViewCell3.xib in Resources */,
 				30C7A2B520920E4400DE800C /* PersonCell.xib in Resources */,
+				307C56C82093B39D0042DAC3 /* 10.jpg in Resources */,
+				30EA3B882099AD65006EAB9F /* XiaoXi.xib in Resources */,
 				302F41F7208A1BC4007BC8C1 /* Main.storyboard in Resources */,
+				307C56E12094621D0042DAC3 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -183,11 +304,19 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-independentTravel/Pods-independentTravel-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/BMPlayer/BMPlayer.framework",
+				"${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework",
+				"${BUILT_PRODUCTS_DIR}/Segmentio/Segmentio.framework",
+				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
 				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/BMPlayer.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NVActivityIndicatorView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Segmentio.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -220,9 +349,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30EA3B802099A3DB006EAB9F /* XiaoXiViewController.swift in Sources */,
+				30FBA1282094B22A00E7FEFE /* TableViewCell2.swift in Sources */,
+				308BE2EF2093858100D897BD /* ZCYPageTitleConfig.swift in Sources */,
+				30EA3B7B209998A2006EAB9F /* TableViewCell3.swift in Sources */,
+				30C383E220947B4000EA00EC /* updateViewController.swift in Sources */,
+				307C56E6209470DE0042DAC3 /* WebViewController.swift in Sources */,
+				308BE2F02093858100D897BD /* ZCYPageTitleView.swift in Sources */,
+				308BE2EE2093858100D897BD /* ZCYPageContentView.swift in Sources */,
+				308BE36F209388AE00D897BD /* myViewController4.swift in Sources */,
+				307C56DA20945F130042DAC3 /* WEIPageControl.swift in Sources */,
+				307C56CC2093B6D40042DAC3 /* myViewController1.swift in Sources */,
 				302F41F4208A1BC4007BC8C1 /* ViewController.swift in Sources */,
 				3037A1602090A45900D9C7AE /* PersonViewController.swift in Sources */,
 				30C7A2B420920E4400DE800C /* PersonCell.swift in Sources */,
+				308BE371209388BD00D897BD /* myViewController5.swift in Sources */,
+				308BE36D209388A100D897BD /* myViewController3.swift in Sources */,
+				308BE36B2093885D00D897BD /* myViewController2.swift in Sources */,
+				307C56CF2093BAE10042DAC3 /* TeleCell.swift in Sources */,
+				308BE2E92093853C00D897BD /* TitleZoomVC.swift in Sources */,
+				307C56D420945E7A0042DAC3 /* FlyViewCell.swift in Sources */,
+				307C56D620945E7A0042DAC3 /* LoopView.swift in Sources */,
+				30EA3B872099AD65006EAB9F /* XiaoXi.swift in Sources */,
 				302F41F2208A1BC4007BC8C1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -55,16 +55,25 @@ class PersonViewController: UIViewController, UITableViewDelegate, UITableViewDa
 //        let cell = personTableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath)
         var cell = PersonCell()
         cell = PersonCell.MyCell(personTableView)
+//        cell.frame = CGRect(x: 10, y: 10, width: 200, height: 40)
         cell.icon?.image = UIImage(named: items[indexPath.row])
         cell.textTie?.text = itemStr[indexPath.row]
         cell.textTie?.textColor = UIColor(red: 60/255, green: 60/255, blue: 60/255, alpha: 1)
+//        cell.layer.borderWidth = 1
+//        cell.layer.borderColor = UIColor.black.cgColor
+//        cell.layer.cornerRadius = 10
+//        cell.layer.masksToBounds = true
+//        cell.backgroundColor = UIColor.white
+        
         cell.textTie?.font = UIFont(name: "PingFang SC", size: 18)   // 字体 和大小
+        
         return cell
     }
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 40
+        return 45
     }
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        
         if itemStr[indexPath.row] == "上传" {
             var updateController = storyboard?.instantiateViewController(withIdentifier: "update")
             self.navigationController?.pushViewController(updateController!, animated: true)
